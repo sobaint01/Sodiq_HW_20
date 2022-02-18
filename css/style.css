@@ -342,6 +342,25 @@ margin-bottom: 30px;
    
 }
 
+.card {
+
+    box-sizing: border-box !important;
+    box-shadow: 6px 6px 8px #000000 !important;
+    position: sticky !important;
+
+}
+
+.card .btn {
+
+    color: #000000 !important;
+    background-color: #FFC91B !important;
+    border-color: #FFC91B !important;
+    border-radius: 20px !important;
+
+}
+
+
+
 .CircleoF {
     background-image: url("../images/Cofmock\ up.png");
     background-position: center;
