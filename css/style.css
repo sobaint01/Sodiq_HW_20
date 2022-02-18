@@ -313,10 +313,10 @@ p {
 
  /*carousel*/
 
-#carouselExampleCaptions {
-/**outline: 2px solid red;**/
+/**#carouselExampleCaptions {
+outline: 2px solid red;**/
 
-}
+
 
 .carousel {
 margin: 50px;
