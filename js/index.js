@@ -14,10 +14,15 @@ $("#contact").hover( function(){
   $(".navChildcontact").slideToggle();
 });
 
-$("#searchIcon").hover( function(){
-  $(".searchform").css("display","flex");
+$("#searchIcon").hover ( function(){
+  $(".searchform").css("display","flex" );
+  
 });
 
+$("#formCloser").onClick ( function(){
+  $("searchform").css("display","none" );
+  
+});
 //burger toggle
 
 //$(".burgerIcon").on("click")( function(){
