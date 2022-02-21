@@ -23,6 +23,12 @@ $("#formCloser").onClick ( function(){
   $("searchform").css("display","none" );
   
 });
+
+
+$(".burgerIcon").onClick( function(){
+ $(".navChildburger").css("display","block");
+});
+
 //burger toggle
 
 //$(".burgerIcon").on("click")( function(){
