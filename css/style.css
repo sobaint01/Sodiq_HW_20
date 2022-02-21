@@ -375,6 +375,11 @@ margin-bottom: 30px;
    
 }
 
+.carousel-caption {
+    color: #000000;
+    font-weight: 700;
+}
+
 .card {
 
     box-sizing: border-box !important;
