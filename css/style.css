@@ -3,13 +3,13 @@
     padding: 0px;
 }
 
+
 a {
     color: #D9B344 !important;
     text-decoration: none !important;
     text-decoration-line: none !important;
 
 }
-
 
 #headerContainer { display: flex;
     justify-content: space-between; 
