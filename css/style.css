@@ -109,7 +109,7 @@ outline: ; }**/
 }
 
 #project { display: inline;
-    height: 35px;
+    height: 55px;
 width: 120px;
 position: relative;
 /**outline: 2px solid red;**/
@@ -119,6 +119,7 @@ background-color: #262626;
 color: #FFC91B;
 font-weight: 400;
 transition: 0.3s;
+text-align: center;
 }
 
 #project img:hover { 
@@ -129,7 +130,7 @@ transition: 0.3s;
 }
 
 #about { display: inline;
-    height: 35px;
+    height: 55px;
 width: 120px;
 position: relative;
 /**outline: 2px solid red;**/
@@ -139,6 +140,7 @@ background-color: #262626;
 color: #FFC91B;
 font-weight: 400;
 transition: 0.3s;
+text-align: center;
 }
 
 #about img:hover { 
@@ -149,16 +151,17 @@ transition: 0.3s;
 }
 
 #resume { display: inline;
-    height: 35px;
+    height: 55px;
 width: 120px;
 position: relative;
-/**outline: 2px solid red;**/ 
+/**outline: 2px solid red;**/
 margin: 20px;
 padding: 5px;
 background-color: #262626;
 color: #FFC91B;
 font-weight: 400;
 transition: 0.3s;
+text-align: center;
 }
 
 #resume img:hover { 
@@ -169,16 +172,17 @@ transition: 0.3s;
 }
 
 #contact { display: inline;
-    height: 35px;
+    height: 55px;
 width: 120px;
 position: relative;
-/**outline: 2px solid red;**/ 
+/**outline: 2px solid red;**/
 margin: 20px;
 padding: 5px;
 background-color: #262626;
 color: #FFC91B;
 font-weight: 400;
 transition: 0.3s;
+text-align: center;
 }
 
 #contact img:hover { 
