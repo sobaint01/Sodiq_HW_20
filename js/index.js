@@ -25,8 +25,8 @@ $("#formCloser").onClick ( function(){
 });
 
 
-$(".burgerIcon").onClick( function(){
- $(".navChildburger").css("display","block");
+$(".burgerIcon").Click( function(){
+ $(this).css("display","block");
 });
 
 //burger toggle
