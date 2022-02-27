@@ -8,7 +8,6 @@ a {
     color: #D9B344 !important;
     text-decoration: none !important;
     text-decoration-line: none !important;
-
 }
 
 #headerContainer { display: flex;
@@ -191,6 +190,8 @@ text-align: center;
     background-color: #575757;
     color: #F2F2F2;
 }
+
+/**list stiling**/
 
 ul {
 
